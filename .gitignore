@@ -1,0 +1,10 @@
+# Compiled files
+*.o
+*.out
+*.exe
+
+# IDE specific files
+.vscode/
+.idea/
+*.sln
+*.vcxproj
